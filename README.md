@@ -1,2 +1,2 @@
 # dashboard-Chart.js
- SMART BOOTCAMP - Atividade - Chart.JS 
+ SMART BOOTCAMP - Atividade de PI - Chart.JS 
